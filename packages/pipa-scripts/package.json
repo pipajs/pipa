@@ -1,0 +1,21 @@
+{
+  "name": "pipa-scripts",
+  "description": "Pipa",
+  "version": "1.0.0",
+  "main": "build/index.js",
+  "types": "build/index.d.ts",
+  "browser": "build-es5/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipajs/pipa.git",
+    "directory": "pipa-scripts"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
+}

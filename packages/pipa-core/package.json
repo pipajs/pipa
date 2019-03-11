@@ -1,0 +1,21 @@
+{
+  "name": "pipa-core",
+  "description": "Pipa",
+  "version": "1.0.0",
+  "main": "build/pipa.js",
+  "types": "build/pipa.d.ts",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pipajs/pipa.git",
+    "directory": "pipa-core"
+  },
+  "engines": {
+    "node": ">= 6"
+  },
+  "dependencies": {},
+  "license": "MIT",
+  "browser": "build-es5/index.js",
+  "publishConfig": {
+    "access": "public"
+  }
+}
