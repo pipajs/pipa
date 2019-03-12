@@ -24,6 +24,7 @@
     "resolveJsonModule": true
   },
   "exclude": [
+    "node_modules",
     ".yarn/releases/*",
     "**/__tests__/**/*",
     "**/build/**/*",
